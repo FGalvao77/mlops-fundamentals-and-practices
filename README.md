@@ -1,1 +1,1 @@
-# mlops-fundamentals_and_practices
+# mlops-fundamentals-and-practices
